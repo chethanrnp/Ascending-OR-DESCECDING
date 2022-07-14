@@ -1,0 +1,4 @@
+usn admin
+pwd admin
+url http://localhost:8888/
+browser chrome
